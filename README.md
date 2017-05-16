@@ -2,6 +2,12 @@
 
 > A Vue.js project
 
+## usage 
+
+```bash
+vue init Aladdin-ADD/webpack-simple ${test}
+```
+
 ## Build Setup
 
 ``` bash
